@@ -21,11 +21,13 @@
             />
 
         <ImageView
+            android:id="@+id/btsImage2"
             android:src="@drawable/bts_2"
             android:layout_width="120dp"
             android:layout_height="120dp"/>
 
         <ImageView
+            android:id="@+id/btsImage3"
             android:src="@drawable/bts_3"
             android:layout_width="120dp"
             android:layout_height="120dp"/>
@@ -35,16 +37,19 @@
         android:layout_height="wrap_content"
         tools:ignore="UselessParent">
         <ImageView
+            android:id="@+id/btsImage4"
             android:src="@drawable/bts_4"
             android:layout_width="120dp"
             android:layout_height="120dp"/>
 
         <ImageView
+            android:id="@+id/btsImage5"
             android:src="@drawable/bts_5"
             android:layout_width="120dp"
             android:layout_height="120dp"/>
 
         <ImageView
+            android:id="@+id/btsImage6"
             android:src="@drawable/bts_6"
             android:layout_width="120dp"
             android:layout_height="120dp"/>
@@ -54,6 +59,7 @@
         android:layout_height="wrap_content"
         tools:ignore="UselessParent">
         <ImageView
+            android:id="@+id/btsImage7"
             android:src="@drawable/bts_7"
             android:layout_width="120dp"
             android:layout_height="120dp"/>
