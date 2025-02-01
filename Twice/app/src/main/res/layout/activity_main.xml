@@ -18,6 +18,7 @@
             app:cardCornerRadius="50dp"
             android:layout_margin="10dp">
             <ImageView
+                android:id="@+id/member1"
                 android:scaleType="fitXY"
                 android:layout_width="120dp"
                 android:layout_height="150dp"
@@ -30,6 +31,7 @@
             android:layout_margin="10dp">
 
             <ImageView
+                android:id="@+id/member2"
                 android:scaleType="fitXY"
                 android:layout_width="120dp"
                 android:layout_height="150dp"
@@ -43,6 +45,7 @@
             android:layout_margin="10dp">
 
             <ImageView
+                android:id="@+id/member3"
                 android:scaleType="fitXY"
                 android:layout_width="120dp"
                 android:layout_height="150dp"
@@ -60,6 +63,7 @@
             android:layout_margin="10dp">
 
             <ImageView
+                android:id="@+id/member4"
                 android:scaleType="fitXY"
                 android:layout_width="120dp"
                 android:layout_height="150dp"
@@ -73,6 +77,7 @@
             android:layout_margin="10dp">
 
             <ImageView
+                android:id="@+id/member5"
                 android:scaleType="fitXY"
                 android:layout_width="120dp"
                 android:layout_height="150dp"
@@ -86,6 +91,7 @@
             android:layout_margin="10dp">
 
             <ImageView
+                android:id="@+id/member6"
                 android:scaleType="fitXY"
                 android:layout_width="120dp"
                 android:layout_height="150dp"
@@ -103,6 +109,7 @@
             android:layout_margin="10dp">
 
             <ImageView
+                android:id="@+id/member7"
                 android:scaleType="fitXY"
                 android:layout_width="120dp"
                 android:layout_height="150dp"
@@ -116,6 +123,7 @@
             android:layout_margin="10dp">
 
             <ImageView
+                android:id="@+id/member8"
                 android:scaleType="fitXY"
                 android:layout_width="120dp"
                 android:layout_height="150dp"
@@ -129,6 +137,7 @@
             android:layout_margin="10dp">
 
             <ImageView
+                android:id="@+id/member9"
                 android:scaleType="fitXY"
                 android:layout_width="120dp"
                 android:layout_height="150dp"
