@@ -1,6 +1,7 @@
 package com.seonghoon.val_log
 
 import android.os.Bundle
+import android.util.Log
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -16,6 +17,14 @@ class MainActivity : AppCompatActivity() {
         val value2 = "여기는 value2입니다!"
 
         value = "여기는 value가 아닙니다!"
+
+        val test = "여기는 test 값입니다"
+
+        Log.e("MainActivity", test)
+        Log.w("MainActivity", test)
+        Log.i("MainActivity", test)
+        Log.d("MainActivity", test)
+        Log.v("MainActivity", test)
 
     }
 }
