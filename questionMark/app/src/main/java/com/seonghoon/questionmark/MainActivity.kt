@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         val value: String? = "a"
         val value2: String? = null
-        
+
         // ? -> null 일 수 있음
         // ! -> null 이 아님
 
