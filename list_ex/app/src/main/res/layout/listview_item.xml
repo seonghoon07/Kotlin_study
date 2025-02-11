@@ -12,4 +12,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
+    <TextView
+        android:layout_margin="5dp"
+        android:textSize="20sp"
+        android:text="리스트뷰 아이템2"
+        android:id="@+id/listviewitem2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>
