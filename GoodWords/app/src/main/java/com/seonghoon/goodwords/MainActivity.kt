@@ -14,11 +14,23 @@ class MainActivity: AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        val sentenceList = mutableListOf<String>()
+        sentenceList.add("명언1")
+        sentenceList.add("명언2")
+        sentenceList.add("명언3")
+        sentenceList.add("명언4")
+        sentenceList.add("명언5")
+        sentenceList.add("명언6")
+        sentenceList.add("명언7")
+        sentenceList.add("명언8")
+
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
         binding.showAllSentenceBtn.setOnClickListener {
             val intent = Intent(this, SentenceActivity::class.java)
             startActivity(intent)
         }
+
+        binding.goodWordTextArea.setText(sentenceList.random())
 
     }
 }

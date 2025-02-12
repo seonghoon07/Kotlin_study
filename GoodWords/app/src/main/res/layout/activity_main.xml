@@ -20,6 +20,7 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
+            android:id="@+id/goodWordTextArea"
             android:fontFamily="@font/bmjua_ttf"
             android:gravity="center"
             android:layout_margin="20dp"
