@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865327922569",
+    "project_id": "fb-login-test-ed311",
+    "storage_bucket": "fb-login-test-ed311.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865327922569:android:5cc4566469667bc6ba3558",
+        "android_client_info": {
+          "package_name": "com.seonghoon.fb_login_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBq97tnTpoxGaOoUmphkFlbW26D9O5hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
