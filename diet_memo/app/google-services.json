@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284600527460",
+    "project_id": "diet-memo-app-4193a",
+    "storage_bucket": "diet-memo-app-4193a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284600527460:android:45e20fdcc418edac56cd71",
+        "android_client_info": {
+          "package_name": "com.seonghoon.diet_memo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi11cAEWmDTs6NqJ1e2ho5SjdvW4SRPHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
