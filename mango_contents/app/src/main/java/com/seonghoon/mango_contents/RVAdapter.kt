@@ -31,7 +31,7 @@ class RVAdapter(val context: Context, val List: MutableList<ContentsModel>): Rec
 
             rv_text.text = item.titleText
             Glide.with(context)
-                .load(item.ImageUrl)
+                .load(item.imageUrl)
                 .into(rv_img)
         }
     }
